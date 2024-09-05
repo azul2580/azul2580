@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @azul2580
-  # sobre mim "EVELLYN"
-  ## *stainwegvanhuy_THE HEDGEHOS*
+  # sobre mim **EVELLYN**
+  ## *xavier*
   #### CAST NO SHADOW.
   _**olá, eu sou @evellyn**
-- ⚡ Fun fact: ...
-
-<!---
-azul2580/azul2580 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- :+1: 0 meu [e-mail](xavier.evellyn@escola.pr.gov.br).
+- :+1:0 eu estou interessado em aprender novas linguagens de programação 
+- :+1: I'm interested in learning new programming languages
+- Eu estou recentemente aprendendo a programar na linguagem de java script e scratch
 --->
